@@ -1,0 +1,321 @@
+{
+    "basic_info": {
+      "description_header": "Olá!",
+      "description": "Atualmente, sou um estudante de ciência de computação que também trabalha como desenvolvedor front-end. Tenho experiência profissional com TypeScript, ReactJs, NodeJs, TailwindCSS, Redux e Linux. Além disso, possuo conhecimento em Python e Rust, adquiridos por meio de estudos independentes, embora sem experiência profissional. Além disso, possuo proficiência em inglês como resultado de ter morado no exterior, nos Países Baixos, por cinco anos, enquanto concluía o ensino médio.",
+      "section_name": {
+        "about": "Sobre mim",
+        "projects": "Projetos",
+        "skills": "Habilidades",
+        "experience": "Experiência",
+        "education": "Educação",
+        "courses": "Estudos independetes"
+      }
+    },
+    "projects": [
+      {
+        "title": "Animal Shelter",
+        "startDate": "2020",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Centro Universitário Ítalo Brasileiro",
+        "title": "Ciência de computação",
+        "years": "02/2022 - Atualmente",
+        "degree": [
+          "Bacharelado"
+        ]
+      },
+      {
+        "institution": "Rivers International School Arnhem",
+        "title": "IB Dipploma",
+        "years": "07/2016 - 05/2020",
+        "degree": [
+          "High School"
+        ]
+      },
+      {
+        "institution": "CNEC Concórdia",
+        "title": "",
+        "years": "02/2009 - 12/2015",
+        "degree": [
+          "Fundamental/Ensino Médio"
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "institution": "Ultimate Rust Crash Course",
+        "title": "7,5 hours",
+        "years": "2023",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Complete NodeJS Developer in 2023",
+        "title": "46,5 hours",
+        "years": "2023",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "MongoDB - The Complete Developer's Guide",
+        "title": "17,5 hours",
+        "years": "2023",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Java Spring & Apache Kafka Bootcamp",
+        "title": "20 hours",
+        "years": "2023",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Apache Cassandra for Data Engineers",
+        "title": "2 hours",
+        "years": "2023",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "The Complete Networking Fundamentals Course",
+        "title": "23,5 hours (unfinished)",
+        "years": "2023",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Fundaments of Ethical Hacking",
+        "title": "25 hours",
+        "years": "2022",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "IT Security Specialist",
+        "title": "5,5 hours",
+        "years": "2022",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Learn Rust by Building Real Applications",
+        "title": "6,5 hours",
+        "years": "2022",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "The Complete 2023 Web Development Bootcamp",
+        "title": "66 hours",
+        "years": "2021",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Next.js & React - The Complete Guide",
+        "title": "25 hours",
+        "years": "2021",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "The Complete SQL Bootcamp: Go from Zero to Hero",
+        "title": "9 hours",
+        "years": "2021",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "The complete Python Pro Bootcamp",
+        "title": "58 hours",
+        "years": "2021",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "The Complete JavaScript Course",
+        "title": "58 hours",
+        "years": "2020",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Angular - The Complete Guide",
+        "title": "36 hours",
+        "years": "2020",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Vue - The Complete Guide",
+        "title": "32 hours",
+        "years": "2020",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Complete C# Unity Game Developer 2D",
+        "title": "18,5 hours",
+        "years": "2019",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Complete C# Unity Game Developer 3D",
+        "title": "30,5 hours",
+        "years": "2019",
+        "degree": [
+          "Udemy"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Arpa Sistemas",
+        "title": "Desenvolvedor front-end",
+        "years": "09/2022- Atualmente",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "TailwindCSS",
+          "Redux",
+          "ReactJS"
+        ]
+      },
+      {
+        "company": "Arpa Sistemas",
+        "title": "Suporte Técnico",
+        "years": "12/2021 - 09/2022",
+        "mainTech": [
+          "MySQL/PostgresSQL"
+        ],
+        "technologies": [
+          "Solução de problemas",
+          "Comunicação",
+          "Situações de estresse",
+          "Análise e diagnóstico",
+          "Realização de treinamentos"
+        ]
+      },
+      {
+        "company": "Smallsoft Tecnologia",
+        "title": "Suporte Técnico",
+        "years": "09/2020 - 12/2021",
+        "mainTech": [
+          "Firebird"
+        ],
+        "technologies": [
+          "Solução de problemas",
+          "Comunicação",
+          "Situações de estresse",
+          "Análise e diagnóstico",
+          "Realização de treinamentos"
+        ]
+      },
+      {
+        "company": "Fletcher Hotel Wageningse Berg",
+        "title": "Hospitalidade",
+        "years": "05/2018 - 02/2020",
+        "mainTech": [
+          "Comunicação"
+        ],
+        "technologies": [
+          "Solução de problemas",
+          "Comunicação em inglês, espanhol e português",
+          "Orientação aos hóspedes",
+          "Situações de emergência",
+          "Multitarefa",
+          "Gerenciamento de tempo"
+        ]
+      }
+    ]
+  }
