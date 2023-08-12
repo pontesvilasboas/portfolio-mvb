@@ -22,11 +22,11 @@ class Courses extends Component {
         });
         return (
           <VerticalTimelineElement
-            className="vertical-timeline-element--study"
+            className=""
             date={course.years}
             iconStyle={{
               background: "#333333",
-              color: "#fff",
+              color: "",
               textAlign: "center",
             }}
             icon={<i className="courses-icon"></i>}
