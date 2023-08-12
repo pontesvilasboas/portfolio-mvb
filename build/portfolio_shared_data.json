@@ -1,0 +1,128 @@
+{
+    "basic_info": {
+      "name": "Matheus Vilas Boas",
+      "titles": [ "Desenvolvedor Front-end"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/devmatheusvilasboas",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/devmatheusvilasboas",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/matheuspontesvilasboas/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/channel/UCpHNCKXnBuJkXCVKy08QIdw",
+          "class": "fab fa-youtube"
+        }
+      ],
+      "image": "myProfile.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "100"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "100"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "100"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "100"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "100"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "100"
+        },
+        {
+          "name": "ReactJS",
+          "class": "devicon-react-plain",
+          "level": "100"
+        },
+        {
+          "name": "TailwindCSS",
+          "class": "devicon-tailwindcss-plain",
+          "level": "100"
+        },
+        {
+          "name": "Rust",
+          "class": "devicon-rust-plain",
+          "level": "60"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "PostgresSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "40"
+        },
+        {
+          "name": "Vue",
+          "class": "devicon-vuejs-plain",
+          "level": "40"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "30"
+        },
+        {
+          "name": "Kafka",
+          "class": "devicon-apachekafka-plain",
+          "level": "30"
+        },
+        {
+          "name": "Spring",
+          "class": "devicon-spring-plain",
+          "level": "30"
+        },
+        {
+          "name": "Unity",
+          "class": "devicon-unity-original",
+          "level": "20"
+        }
+      ]
+    }
+  }

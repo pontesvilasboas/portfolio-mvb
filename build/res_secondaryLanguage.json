@@ -1,0 +1,276 @@
+{
+    "basic_info": {
+      "description_header": "Hi!",
+      "description": "Currently, I am a computer science student who also works as a front-end developer. I have professional experience with TypeScript, ReactJs, NodeJs, TailwindCSS, Redux, and Linux. Furthermore, I have knowledge in Python and Rust, acquired through independent studies, although without professional experience. Additionally, I am proficient in English due to living abroad in the Netherlands for five years while completing high school.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "education": "Education",
+        "experience": "Experience",
+        "courses": "Independent studies"
+      }
+    },
+    "projects": [
+      {
+        "title": "My blog",
+        "startDate": "2023",
+        "description": "My goal for this blog is to just share my opinion on current subjects that are taking place in our world.",
+        "images": [
+          "images/portfolio/blog/blog.png"
+        ],
+        "url": "https://medium.com/",
+        "technologies": [
+
+        ]
+      },
+      {
+        "title": "My Github",
+        "startDate": "2019",
+        "description": "It's where everything started and still going. Legacy.",
+        "images": [
+          "images/portfolio/blog/github.jpg"
+        ],
+        "url": "https://github.com/matheuspontesvilasboas",
+        "technologies": [
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Centro Universitário Ítalo Brasileiro",
+        "title": "Computer science",
+        "years": "02/2022 - Current",
+        "degree": [
+          "BSc"
+        ]
+      },
+      {
+        "institution": "Rivers International School Arnhem",
+        "title": "IB Dipploma",
+        "years": "07/2016 - 05/2020",
+        "degree": [
+          "High School"
+        ]
+      },
+      {
+        "institution": "CNEC Concórdia",
+        "title": "",
+        "years": "02/2009 - 12/2015",
+        "degree": [
+          "Primary school/High school"
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "institution": "Ultimate Rust Crash Course",
+        "title": "7,5 hours",
+        "years": "2023",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Complete NodeJS Developer in 2023",
+        "title": "46,5 hours",
+        "years": "2023",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "MongoDB - The Complete Developer's Guide",
+        "title": "17,5 hours",
+        "years": "2023",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Java Spring & Apache Kafka Bootcamp",
+        "title": "20 hours",
+        "years": "2023",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Apache Cassandra for Data Engineers",
+        "title": "2 hours",
+        "years": "2023",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "The Complete Networking Fundamentals Course",
+        "title": "23,5 hours (unfinished)",
+        "years": "2023",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Fundaments of Ethical Hacking",
+        "title": "25 hours",
+        "years": "2022",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "IT Security Specialist",
+        "title": "5,5 hours",
+        "years": "2022",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Learn Rust by Building Real Applications",
+        "title": "6,5 hours",
+        "years": "2022",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "The Complete 2023 Web Development Bootcamp",
+        "title": "66 hours",
+        "years": "2021",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Next.js & React - The Complete Guide",
+        "title": "25 hours",
+        "years": "2021",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "The Complete SQL Bootcamp: Go from Zero to Hero",
+        "title": "9 hours",
+        "years": "2021",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "The complete Python Pro Bootcamp",
+        "title": "58 hours",
+        "years": "2021",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "The Complete JavaScript Course",
+        "title": "58 hours",
+        "years": "2020",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Angular - The Complete Guide",
+        "title": "36 hours",
+        "years": "2020",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Vue - The Complete Guide",
+        "title": "32 hours",
+        "years": "2020",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Complete C# Unity Game Developer 2D",
+        "title": "18,5 hours",
+        "years": "2019",
+        "degree": [
+          "Udemy"
+        ]
+      },
+      {
+        "institution": "Complete C# Unity Game Developer 3D",
+        "title": "30,5 hours",
+        "years": "2019",
+        "degree": [
+          "Udemy"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Arpa Sistemas",
+        "title": "Front-end Developer",
+        "years": "09/2022 - Present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "TailwindCSS",
+          "Redux",
+          "ReactJS"
+        ]
+      },
+      {
+        "company": "Arpa Sistemas",
+        "title": "Technical Support",
+        "years": "12/2021 - 09/2022",
+        "mainTech": [
+          "MySQL/PostgresSQL"
+        ],
+        "technologies": [
+          "Problem-solving",
+          "Communication",
+          "Stressful situations",
+          "Analysis and diagnosis",
+          "Conducting training"
+        ]
+      },
+      {
+        "company": "Smallsoft Technology",
+        "title": "Technical Support",
+        "years": "09/2020 - 12/2021",
+        "mainTech": [
+          "Firebird"
+        ],
+        "technologies": [
+          "Problem-solving",
+          "Communication",
+          "Stressful situations",
+          "Analysis and diagnosis",
+          "Conducting training"
+        ]
+      },
+      {
+        "company": "Fletcher Hotel Wageningse Berg",
+        "title": "Hospitality",
+        "years": "05/2018 - 02/2020",
+        "mainTech": [
+          "Communication"
+        ],
+        "technologies": [
+          "Problem-solving",
+          "Communication in English, Spanish, and Portuguese",
+          "Guest orientation",
+          "Emergency situations",
+          "Multitasking",
+          "Time management"
+        ]
+      }
+    ]
+  }
